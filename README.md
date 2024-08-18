@@ -59,7 +59,7 @@ Now that overview/diagram is done, start making components.
     @action.uses("contact.html")
     def contact():
     '
-    .
+    pass
     ```
   - Add db.define for each table to models.py
     ```
